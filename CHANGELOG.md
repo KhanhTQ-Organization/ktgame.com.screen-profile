@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/KhanhTQ-Organization/ktgame.com.screen-profile/compare/v1.0.1...v1.0.2) (2026-05-06)
+
+
+### Bug Fixes
+
+* rl ([7f11dd8](https://github.com/KhanhTQ-Organization/ktgame.com.screen-profile/commit/7f11dd8d34c31e6c0509a1340da5a8668707373c))
+
 ## [1.0.1](https://github.com/KhanhTQ-Organization/ktgame.com.screen-profile/compare/v1.0.0...v1.0.1) (2025-07-04)
 
 
